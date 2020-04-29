@@ -3,10 +3,10 @@ package service;
 import model.User;
 
 public class AstroCalculator{
-	public String toString(User p) 
-	{
-		return "Name:"+p.getName()+"\nGender:"+p.getGender()+"\nDOB:"+p.getDob();
-	}
+//	public String toString(User p) 
+//	{
+//		return "Name:"+p.getName()+"\nGender:"+p.getGender()+"\nDOB:"+p.getDob();
+//	}
 
 
 	public String findSign(User p )
